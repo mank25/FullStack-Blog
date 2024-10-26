@@ -1,5 +1,6 @@
 # Full Stack Blog Application
 
+Demo Video - https://youtu.be/L7G2-UqfI88
 The **Full Stack Blog Application** is a feature-rich web application that allows users to create, edit, view, and delete blog posts. This project is built using a modern stack with a responsive frontend and a robust backend. It demonstrates CRUD (Create, Read, Update, Delete) operations, user authentication, and authorization.
 
 ## Features
